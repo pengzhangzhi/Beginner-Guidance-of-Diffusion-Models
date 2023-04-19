@@ -1,3 +1,4 @@
+[![Diffusion Models](asset/cover.png)](https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Generation-with-Diffusion-Models.png)
 # Beginner Guidance of Diffusion Models
 
 Diffusion models and score-based models have become increasingly popular in data generation for various types of media, including images and text. While these models have shown impressive performance, their heavy reliance on mathematical details can make them challenging to approach. To make the topic more accessible, I have curated a series of beginner-friendly tutorials that include both blogs and code. I hope that these resources will be useful to you in gaining a better understanding of diffusion models and their applications.

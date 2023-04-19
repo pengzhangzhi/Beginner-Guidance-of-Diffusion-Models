@@ -10,7 +10,7 @@ Diffusion models and score-based models have become increasingly popular in data
 - Diffusion Models
     - https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 
-## Code/ notebook tutorial
+## Code & notebook tutorial
 
 - Score-based models
     - https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=DfOkg5jBZcjF&uniqifier=1
